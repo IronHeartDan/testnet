@@ -1,0 +1,14 @@
+{
+    "api_key": "AS8PA7lD2iIyYMDcGJmOyYs9NO2WYWeMyiPV0r1O4itWdFu1yymxqGZgrQsOh0Hl",
+    "api_secret": "WTBkQkjA2JLd213yjo6a1ytvMOvkNXzmrGERcLaycdyiXEkOhDMtIJyNX5kniRfb",
+    "binance_orders": [],
+    "created_at": "2023-05-18T11:36:32.000Z",
+    "id": 9793,
+    "published_at": "2023-05-18T11:36:32.000Z",
+    "sub_account_email": "yogesh_92213721_727215344_brokersubuser@cryptoxpress.com",
+    "sub_account_id": "3463679599460339201",
+    "sub_account_maker_commission": 0.001,
+    "sub_account_taker_commission": 0.001,
+    "trade_enabled": true,
+    "updated_at": "2023-05-18T11:36:33.000Z"
+}
